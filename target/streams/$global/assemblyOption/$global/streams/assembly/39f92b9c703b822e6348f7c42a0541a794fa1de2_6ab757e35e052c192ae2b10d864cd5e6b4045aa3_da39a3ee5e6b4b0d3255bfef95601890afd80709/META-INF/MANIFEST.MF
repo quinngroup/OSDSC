@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: org.scalamacros
+Implementation-Title: quasiquotes
+Implementation-Version: 2.0.0
+Implementation-Vendor-Id: org.scalamacros
+Specification-Vendor: org.scalamacros
+Specification-Title: quasiquotes
+Specification-Version: 2.0.0
+
